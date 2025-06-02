@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy – Hairelya</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #a47149;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Last updated:</strong> June 2, 2025</p>
+
+  <p>This Privacy Policy describes how personal data is handled in the Hairelya app. By using the app, you agree to the practices described below.</p>
+
+  <h2>1. Data Collection</h2>
+  <p>Hairelya does not collect or transmit any personally identifiable information. All data is stored securely on your device or, if enabled, in your private iCloud account.</p>
+
+  <h2>2. Data Stored</h2>
+  <ul>
+    <li>Treatment logs (name, date, frequency, products used)</li>
+    <li>Hair timeline photos and notes</li>
+    <li>Products used in your routine</li>
+    <li>Routine preferences and reminder settings</li>
+  </ul>
+
+  <h2>3. iCloud Sync</h2>
+  <p>If you are a PRO user, your data is automatically synced with your personal iCloud account. Apple’s iCloud security and encryption protocols apply. We cannot access your iCloud data.</p>
+
+  <h2>4. Notifications</h2>
+  <p>The app uses local notifications to remind you about scheduled treatments or goals. No notification data is shared externally.</p>
+
+  <h2>5. Ads</h2>
+  <p>Hairelya FREE version may display banner ads. These are provided by third-party ad networks (such as Google AdMob) and may use anonymous identifiers for basic ad serving.</p>
+
+  <h2>6. In-App Purchases</h2>
+  <p>You can purchase a PRO subscription through Apple’s secure in-app purchase system (StoreKit). We do not store any payment information.</p>
+
+  <h2>7. Data Deletion</h2>
+  <p>You can delete all your data from within the app by removing it manually. Uninstalling the app will also remove local data. iCloud data must be deleted via iCloud settings.</p>
+
+  <h2>8. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy from time to time. You will be notified of any major changes within the app.</p>
+
+  <h2>9. Contact</h2>
+  <p>If you have any questions or concerns, please contact us at: <a href="mailto:hairelya.app@gmail.com">hairelya.app@gmail.com</a></p>
+
+</body>
+</html>
 
